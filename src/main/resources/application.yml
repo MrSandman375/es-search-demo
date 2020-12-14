@@ -1,0 +1,7 @@
+spring:
+  #配置elasticsearch地址和账号密码
+  elasticsearch:
+    rest:
+#      username: elastic
+#      password: 123456
+      uris: ruoweiserver002:9200
